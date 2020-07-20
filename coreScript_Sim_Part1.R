@@ -1,0 +1,1 @@
+# Core script for simulation of the CIAT recurrent selection scheme integrating genomic prediction
